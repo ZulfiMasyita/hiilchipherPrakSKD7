@@ -95,7 +95,6 @@ def decrypt(cipher, Kinv):
 
 
 def main():
-    # message = 'my life is potato'
     message = "zulfimasyitaresiareswati"
 
     K = np.matrix([[4, 3], [5, 6]])
